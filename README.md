@@ -5,6 +5,9 @@ Hoje estou trabalhando em uma indústria de plástico filme chamada Vitopel do B
 
 Estudante de ciências da computação e desenvolvimento de software Full stack 
 Com skills em...
+
 -> Back-end e Algoritmos - Python, C, Java, Golang...
+
 -> Front-end - HTML-CSS-JS
+
 -> DBA -> MySQL 

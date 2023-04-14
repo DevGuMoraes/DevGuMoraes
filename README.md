@@ -1,7 +1,7 @@
 # Olá, me chamo Gustavo Moraes!
 ## Sejam todos bem vindos!  visitantes e passageiros/as do meu repotorio
 
-Hoje estou trabalhando em uma indústria de plástico filme chamada Vitopel do Brasil como assistente administrativo,com o papel de jovem aprendiz 
+Hoje estou trabalhando em uma indústria de plástico filme chamada Vitopel do Brasil como assistente administrativo,
 
 Estudante de ciências da computação e desenvolvimento de software Full stack 
 Com skills em...

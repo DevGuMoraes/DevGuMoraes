@@ -1,5 +1,5 @@
 # Olá, me chamo Gustavo Moraes!
-## Sejam todos bem vindos!  visitantes e passageiros/as do meu repotorio
+## Sejam todos bem vindos!
 
 Hoje estou trabalhando em uma indústria de plástico filme chamada Vitopel do Brasil como assistente administrativo,
 
